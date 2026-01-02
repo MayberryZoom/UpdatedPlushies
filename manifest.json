@@ -1,6 +1,6 @@
 {
     "name": "UpdatedPlushies",
-    "version_number": "0.1.0",
+    "version_number": "0.1.1",
     "website_url": "https://github.com/MayberryZoom/UpdatedPlushies",
     "description": "Rewritten and rebalanced version of scintesto's Monster Plushies",
     "dependencies": [
