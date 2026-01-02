@@ -1,0 +1,11 @@
+{
+    "name": "UpdatedPlushies",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/MayberryZoom/UpdatedPlushies",
+    "description": "Rewritten and rebalanced version of scintesto's Monster Plushies",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2304",
+        "Evaisa-LethalLib-1.1.1",
+        "Sigurd-CSync-5.0.1"
+    ]
+}
