@@ -9,56 +9,56 @@ Also check out [Scintesto's Scavenger Plushie](https://thunderstore.io/c/lethal-
 
 # Mod Preview
 ## Bracken
-![Bracken Plushie](docs/assets/bracken.png)
+![Bracken Plushie](https://raw.githubusercontent.com/MayberryZoom/UpdatedPlushies/refs/heads/main/docs/assets/bracken.png)
 
 Interact to russle its quills
 
 ## Bunker Spider
-![Bunker Spider Plushie](docs/assets/bunker_spider.png)
+![Bunker Spider Plushie](https://raw.githubusercontent.com/MayberryZoom/UpdatedPlushies/refs/heads/main/docs/assets/bunker_spider.png)
 
 Interact to play Minecraft spider sounds
 
 ## Coil-Head
-![Coil-Head Plushie](docs/assets/coil_head.png)
+![Coil-Head Plushie](https://raw.githubusercontent.com/MayberryZoom/UpdatedPlushies/refs/heads/main/docs/assets/coil_head.png)
 
 Interact to make the spring go boing
 
 ## Eyeless Dog
-![Eyeless Dog Plushie](docs/assets/eyeless_dog.png)
+![Eyeless Dog Plushie](https://raw.githubusercontent.com/MayberryZoom/UpdatedPlushies/refs/heads/main/docs/assets/eyeless_dog.png)
 
 Interact to make the dog lunge
 
 ## Forest Keeper
-![Forest Keeper Plushie](docs/assets/forest_keeper.png)
+![Forest Keeper Plushie](https://raw.githubusercontent.com/MayberryZoom/UpdatedPlushies/refs/heads/main/docs/assets/forest_keeper.png)
 
 Interact to be scared
 
 ## Hoarding Bug
-![Hoarding Bug Plushie](docs/assets/hoarding_bug.png)
+![Hoarding Bug Plushie](https://raw.githubusercontent.com/MayberryZoom/UpdatedPlushies/refs/heads/main/docs/assets/hoarding_bug.png)
 
 Interact to YIPPEE
 
 ## Jester
-![Jester Plushie](docs/assets/jester.png)
+![Jester Plushie](https://raw.githubusercontent.com/MayberryZoom/UpdatedPlushies/refs/heads/main/docs/assets/jester.png)
 
 Interact to turn the crank
 
 ## Masked (Comedy/Tragedy)
-![Masked (Comedy) Plushie](docs/assets/masked_comedy.png)
+![Masked (Comedy) Plushie](https://raw.githubusercontent.com/MayberryZoom/UpdatedPlushies/refs/heads/main/docs/assets/masked_comedy.png)
 
 Interact to make it laugh
 
-![Masked (Tragedy) Plushie](docs/assets/masked_tragedy.png)
+![Masked (Tragedy) Plushie](https://raw.githubusercontent.com/MayberryZoom/UpdatedPlushies/refs/heads/main/docs/assets/masked_tragedy.png)
 
 Interact to make it cry
 
 ## Nutcracker
-![Nutcracker Plushie](docs/assets/nutcracker.png)
+![Nutcracker Plushie](https://raw.githubusercontent.com/MayberryZoom/UpdatedPlushies/refs/heads/main/docs/assets/nutcracker.png)
 
 Interact to make it investigate
 
 ## Thumper
-![Thumper Plushie](docs/assets/thumper.png)
+![Thumper Plushie](https://raw.githubusercontent.com/MayberryZoom/UpdatedPlushies/refs/heads/main/docs/assets/thumper.png)
 
 Interact to make it bite
 
